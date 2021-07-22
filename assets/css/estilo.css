@@ -1,0 +1,64 @@
+.logo{
+  margin-left: 5%;
+font-family: 'Yantramanav', sans-serif;
+}
+.barra{
+  padding-right: 0%;
+  margin-left: 60%;
+  font-family: 'Yantramanav', sans-serif;
+}
+.header .navbar {
+background-color: transparent !important;
+}
+.fondo{
+  background-color: black;
+}
+.text1 {
+color: white;
+font-family: 'Staatliches', fantasy;
+}
+.linea{
+  color:#6ab04c;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.card{
+  background-color: #6ab04c;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height: auto;
+}
+.boton{
+  background-color:pink;
+  text-align: center;
+  height: 300pt;
+}
+.favi{
+  background-color: #6ab04c;
+  padding-left: auto;
+  padding-right: auto;
+  text-align: center;
+}
+p{
+  color:white;
+}
+.pie{
+  background-color: #6ab04c;
+}
+html{
+  scroll-behavior: smooth;
+}
+.viajes{
+margin-top: 3%;
+margin-left: -4%;
+  font-family: 'Yantramanav', sans-serif;
+}
+.iconos{
+margin-top: 2%;
+margin-left: 80%;
+}
+.comenzar{
+  text-align: center;
+  justify-content: center;
+}
