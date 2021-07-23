@@ -56,9 +56,20 @@ margin-left: -4%;
 }
 .iconos{
 margin-top: 2%;
-margin-left: 80%;
 }
 .comenzar{
   text-align: center;
   justify-content: center;
+}
+#footer .iconos{
+margin-left: 80%;
+
+}
+
+@media screen and (max-width: 600px) {
+  #footer{
+    text-align: center;
+  }
+  #footer .iconos{
+  margin: auto;
 }
